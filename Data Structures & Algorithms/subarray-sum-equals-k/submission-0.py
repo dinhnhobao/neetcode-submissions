@@ -24,7 +24,3 @@ class Solution:
             count += prefix[total-k]
             prefix[total] += 1
         return count
-
-
-
-
